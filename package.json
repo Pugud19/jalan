@@ -1,0 +1,10 @@
+{
+  "name": "jalan",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx tailwindcss -o style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
